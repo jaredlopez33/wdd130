@@ -2,7 +2,7 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
@@ -12,7 +12,7 @@ Fonts are separated by a & */
   --primary-color: #8eb8e5ff  ;
   --secondary-color: #6ba368ff ;
   --accent1-color: #7c616cff;
-  --accent2-color: white;
+  --accent2-color: #7d346cff;
 
 
 
@@ -21,15 +21,15 @@ Fonts are separated by a & */
   --paragraph-font: Lato, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
+  --headline-color-on-white: #8eb8e5ff;  /* headlines on a white background */ 
+  --headline-color-on-color: #7c616cff; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #8eb8e5ff; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #7d346cff; /* paragraph text on a colored background */ 
   --paragraph-background-color: #6ba368ff  ;
   --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-background-color: #7d346cff;
+  --nav-hover-link-color: #8eb8e5ff;
+  --nav-hover-background-color: #7c616cff;
 }
 
 
@@ -53,7 +53,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 h2 {
   text-align: center;
-  background-color: darkblue;
 }
 hr {
   height: 3px;
@@ -142,17 +141,17 @@ nav a:hover {
 }
 .sm-home {
   grid-area: home;
-  background-color: #6ba368ff;
+  background-color: #ccc;
   line-height: 3em;
 }
 .sm-page2 {
   grid-area: page2;
-  background-color: #6ba368ff;
+  background-color: #ccc;
   line-height: 3em;
 }
 .sm-page3 {
   grid-area: page3;
-  background-color: #6ba368ff;
+  background-color: #ccc;
   line-height: 3em;
 }
 .top {
