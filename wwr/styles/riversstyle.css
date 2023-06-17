@@ -29,7 +29,6 @@ body {
     background-color: #fcfbfb; 
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
-    max-width: auto;
     margin: 0 auto;
     text-align: center;
 }
@@ -122,10 +121,7 @@ body {
     font-size: 2em;
     margin-top: 10px;
     text-align: left;
-    margin-left: 20px;
-}
-.home-grid {
-    display: auto;
+    margin-left: 30px;
 }
 .logo {
     width: 80px;
