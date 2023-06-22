@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 
-#content {
-    margin: 0 auto; 
-    max-width: 1600px;
-}
-
 header {
     background-color:rgba(24, 30, 13, 0.7);
     display: grid;
