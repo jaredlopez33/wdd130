@@ -110,6 +110,27 @@ footer {
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
 }
+
+.card-img-top{
+    width: 300px;
+    height: 200px;
+}
+.card1{
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+.card2{
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+.card3{
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+.card4{
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
 .home-title {
     color:#d9c2a3;
     margin-top: 10px;
@@ -228,7 +249,7 @@ footer .social img {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: black;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;

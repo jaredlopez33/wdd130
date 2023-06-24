@@ -16,8 +16,20 @@ nav a {
     text-decoration: none;
     padding: 35px;
 }
+.table{
+    padding-top: 300px;
+    text-align: center;
+    display: block;
+}
+.table2{
+    padding-top: 100px;
+    text-align: center;
+}
 
+.minilogo{
+    width: 40px;
 
+}
 .home-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -228,7 +240,7 @@ footer .social img {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: black;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
