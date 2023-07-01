@@ -182,6 +182,7 @@ nav a:hover {
 footer a {
     text-decoration: none;
     color:black;
+    
 }
 footer {
     background-color: #92B4F4;
@@ -190,6 +191,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 .book:hover, .join:hover {
     background-color:white;;
@@ -217,6 +219,7 @@ footer {
 footer h3 a:hover {
     color:#d9c2a3;
     text-decoration: none;
+    
 }
 .icon {
     width: 80px;
@@ -234,9 +237,11 @@ footer h3 a:hover {
 footer p a:hover {
     text-decoration: underline;
     
+    
 } 
 footer a:hover {
     color:#d9c2a3;
+    
 }
 footer .social img {
     padding-top: 15px;
