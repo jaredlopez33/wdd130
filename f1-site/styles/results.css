@@ -16,6 +16,16 @@ nav a {
     text-decoration: none;
     padding: 35px;
 }
+table{
+    display: flex;
+    justify-content: center;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
 .table{
     display: block;
     height: auto;

@@ -159,6 +159,7 @@ footer {
     height: 170px;
 }
 .card1{
+    font-family: Roboto , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -170,6 +171,7 @@ footer {
 
 }
 .card2{
+    font-family: Roboto , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -181,6 +183,7 @@ footer {
     
 }
 .card3{
+    font-family: Roboto , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -190,6 +193,7 @@ footer {
     margin: auto 0 ;
 }
 .card4{
+    font-family: Roboto , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;

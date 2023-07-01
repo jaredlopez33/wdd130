@@ -30,10 +30,6 @@ nav a {
     height: auto;
 }
 
-
-
-
-
 .card-img-top{
     width: 200px;
     height: 170px;
@@ -51,6 +47,7 @@ nav a {
 }
 
 .card1{
+    font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -63,6 +60,7 @@ nav a {
 
 }
 .card2{
+    font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -74,6 +72,7 @@ nav a {
     color: #0A369D;
 }
 .card3{
+    font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: auto;
@@ -84,6 +83,7 @@ nav a {
     color: #0A369D;
 }
 .card4{
+    font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
     width: 400px;
