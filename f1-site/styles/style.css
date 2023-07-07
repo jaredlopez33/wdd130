@@ -46,7 +46,7 @@ nav a {
     height: 300px;
 }
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+body {font-family: Roboto, sans-serif; margin:0} 
 .mySlides {display: none}
 img {vertical-align: middle;}
 
@@ -140,7 +140,7 @@ img {vertical-align: middle;}
     font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
-    width: auto;
+    width: 20rem;
     height: auto;
     float: right;
     grid-column: 2/3;
@@ -153,7 +153,7 @@ img {vertical-align: middle;}
     font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
-    width: auto;
+    width: 20rem;
     height: auto;
     float: right;
     grid-column: 2/3;
@@ -165,7 +165,7 @@ img {vertical-align: middle;}
     font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
-    width: auto;
+    width: 20rem;
     height: auto;
     grid-column: 2/3;
     grid-row: 2/3;
@@ -176,7 +176,7 @@ img {vertical-align: middle;}
     font-family: 'Roboto' , Helvetica, sans-serif;
     border: 1px solid #ccc;
     border-radius: 1em;
-    width: 400px;
+    width: 20rem;
     height: auto;
     grid-column: 2/3;
     grid-row: 2/3;
