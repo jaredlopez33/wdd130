@@ -48,6 +48,9 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
+.slideshow-container img{
+    width: 100%;
+}
 
 /* Next & previous buttons */
 .prev, .next {
